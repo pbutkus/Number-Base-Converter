@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Double_factorial.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-The_smallest_value.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comparable-Addresses.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comparable-Implement_comparing_by_additional_fields.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comparable-Ratings.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Comparable-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Statements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Pow.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Math_library-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Number_Base_Converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
